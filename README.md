@@ -1,4 +1,4 @@
-# Node.js Layer 4 Load Balancer Lab
+# Node.js Layer 4 Load Balancer
 
 This repository demonstrates a **Layer 4 TCP load-balanced Node.js environment** using Nginx and MySQL in Docker. The setup consists of:
 
